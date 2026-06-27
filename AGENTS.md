@@ -2,6 +2,11 @@
 
 Guidance for AI coding agents working in this repository.
 
+## Communication
+
+Always reply to the user in Traditional Chinese (繁體中文). Code, identifiers,
+commit messages, and other repository artifacts stay in their original language.
+
 ## Project nature
 
 SQLite is a self-contained, serverless SQL database engine written in C. The

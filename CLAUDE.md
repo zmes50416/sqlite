@@ -6,6 +6,13 @@ Guidance for Claude / AI coding agents working in this repository.
 > in condensed form. Keep the two in sync when either is updated. The
 > human-facing source overview is in [`README.md`](./README.md).
 
+## Communication
+
+- **Always reply to the user in Traditional Chinese (繁體中文).** This applies to
+  all chat responses and explanations. Code, identifiers, file contents, commit
+  messages, and other repository artifacts stay in their original language
+  (typically English).
+
 ## What this project is
 
 SQLite is a self-contained, serverless, zero-configuration, transactional SQL
