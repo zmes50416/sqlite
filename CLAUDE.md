@@ -13,6 +13,14 @@ Guidance for Claude / AI coding agents working in this repository.
   messages, and other repository artifacts stay in their original language
   (typically English).
 
+## Usage scope
+
+- **Education use only.** Claude Code is used here strictly for *learning and
+  understanding* this codebase, **not** for production work. Favor explanation,
+  walkthroughs, and exploration of how the existing code works. Do not treat
+  edits as production deliverables, and keep in mind the project does not accept
+  agentic code upstream (see below).
+
 ## What this project is
 
 SQLite is a self-contained, serverless, zero-configuration, transactional SQL
